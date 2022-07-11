@@ -1,4 +1,4 @@
-export const generateInternCard = (name, id, email, role, school) => {
+export const generateInternCard = (name, id, email, school) => {
     return `
 
 <!DOCTYPE html>
