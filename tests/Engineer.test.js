@@ -4,18 +4,18 @@
 
 // Email
 
-getName()
+// getName()
 
-getId()
+// getId()
 
-getEmail()
+// getEmail()
 
-getRole()
+// getRole()
 
 // In addition to Employee's properties and methods, Engineers will have:
 
-github //Github username
+// github //Github username
 
-gitGithub()
+// gitGithub()
 
-getRole() //Overriden to return 'Intern'
+// getRole() //Overriden to return 'Intern'

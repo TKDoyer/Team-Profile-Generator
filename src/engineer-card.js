@@ -26,4 +26,4 @@ export const generateEnginerCard = (name, id, email, role, github) => {
 </html>
 
 `
-}
+};

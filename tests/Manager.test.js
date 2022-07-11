@@ -4,16 +4,16 @@
 
 // Email
 
-getName()
+// getName()
 
-getId()
+// getId()
 
-getEmail()
+// getEmail()
 
-getRole()
+// getRole()
 
 // In addition to theses methods Managers will have:
 
-officeNumber
+// officeNumber
 
-getRole() // Overridden to return 'Manager' 
+// getRole() // Overridden to return 'Manager' 

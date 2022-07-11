@@ -38,4 +38,4 @@ export const generateInternCard = (name, id, email, role, school) => {
 
 
 `
-}
+};

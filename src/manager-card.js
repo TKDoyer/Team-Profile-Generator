@@ -28,4 +28,4 @@ export const generateManagerCard = (name, id, email, role, officeNumber) => {
 
 
 `
-}
+};

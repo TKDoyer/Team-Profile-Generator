@@ -20,4 +20,4 @@ const internPrompts = [
     // }
 ]
 
-exports.Intern = internPrompts
+module.exports = internPrompts

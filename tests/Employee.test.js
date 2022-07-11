@@ -1,28 +1,28 @@
 
 
-const Employee {
-    constructor (name, id, email,) => {
-        this.name = name;
-        this.id = id;
-        this.email = email;
-        this.role = role;
-    }
-}
+// const Employee {
+//     constructor (name, id, email,) => {
+//         this.name = name;
+//         this.id = id;
+//         this.email = email;
+//         this.role = role;
+//     }
+// }
 
-getName(); {
-    return this.name
-}
+// getName(); {
+//     return this.name
+// }
 
-getId(); {
-    return this.id
-}
+// getId(); {
+//     return this.id
+// }
 
-getEmail(); {
-    return this.email
-}
+// getEmail(); {
+//     return this.email
+// }
 
-getRole(); {
-    return this.role
+// getRole(); {
+//     return this.role
 
-}
+// }
 

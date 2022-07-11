@@ -19,4 +19,4 @@ export const generateteamPage = (cards) => {
 </html>
 
 `
-}
+};

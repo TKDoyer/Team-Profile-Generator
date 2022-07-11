@@ -12,7 +12,7 @@ function init() {
 
 
     })
-}
+};
 
 init();
 
@@ -27,4 +27,4 @@ function writeToFile(fileName, reject) {
             return callback(error);
         }
     })
-}
+};

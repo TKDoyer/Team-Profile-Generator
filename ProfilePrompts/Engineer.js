@@ -18,4 +18,4 @@ const engineerPrompts = [
         name: 'Github Username',
     }
 ]
-exports.Engineer = engineerPrompts;
+module.exports = engineerPrompts;
